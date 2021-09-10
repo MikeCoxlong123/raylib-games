@@ -25,9 +25,9 @@
 //----------------------------------------------------------------------------------
 // Some Defines
 //----------------------------------------------------------------------------------
-#define PLAYER_MAX_LIFE         5
-#define LINES_OF_BRICKS         5
-#define BRICKS_PER_LINE        20
+#define PLAYER_MAX_LIFE         10
+#define LINES_OF_BRICKS         3
+#define BRICKS_PER_LINE        25
 
 //----------------------------------------------------------------------------------
 // Types and Structures Definition
